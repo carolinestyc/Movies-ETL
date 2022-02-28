@@ -23,6 +23,5 @@ Second, a ratings table. A comprehensive list of ratings for these 6,052 movies 
 
 <img width="347" alt="ratings_query" src="https://user-images.githubusercontent.com/96352625/155920148-23657722-e930-420c-bd95-5550ea3507c5.png">
 
-
-
 ## Summary
+ETL allows for great functionality when creating an optimal database. Extracting the data from multiple sources was the easiest part. Transforming the data was the hardest; cleaning the data and combining the multiple sources. Specifically, trying to figure out what data to keep and what to remove from the different sources. However, it is all worth it to create the best database for the hackathon. Now, it is all available in an easy to use PostgreSQL database that can be easily updated to incorporate any new movie or ratings data in the future. 
