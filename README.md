@@ -6,4 +6,10 @@ Amazing Prime wants to know what movies will be popular soon so they can buy the
 
 ## Findings
 
+<img width="347" alt="movies_query" src="https://user-images.githubusercontent.com/96352625/155919388-c8e9e3ef-c934-4631-aea8-080c88f390d4.png">
+
+<img width="341" alt="ratings_query" src="https://user-images.githubusercontent.com/96352625/155919409-296e8f53-892f-4c70-8753-4648d39262be.png">
+
+![time_elapsed](https://user-images.githubusercontent.com/96352625/155919419-d8639db8-07df-498f-a18a-13405985ce69.png)
+
 ## Summary
